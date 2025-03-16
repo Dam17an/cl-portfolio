@@ -1,0 +1,14 @@
+.menu li {
+    display: inline-block;
+    list-style: none;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: var(--gray);
+    margin-right: 50px;
+}
+
+.menu li a:hover {
+    color: var(--light-blue);
+}
